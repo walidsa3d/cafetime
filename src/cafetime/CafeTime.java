@@ -14,7 +14,7 @@ import org.joda.time.Period;
 import org.joda.time.PeriodType;
 
 /**
- *
+ *this the main class
  * @author walid
  */
 public class CafeTime {
